@@ -2150,3 +2150,452 @@
 23/09/06 10:32:30 | INFO | root | Predicted structure for gene2081_15872551_15874421 with length 463, pLDDT 72.7, pTM 0.473 in 25.3s (amortized, batch size 2). 2144 / 2595 completed.
 23/09/06 10:33:18 | INFO | root | Predicted structure for gene2587_19945609_19947179 with length 463, pLDDT 52.0, pTM 0.351 in 24.3s (amortized, batch size 2). 2145 / 2595 completed.
 23/09/06 10:33:18 | INFO | root | Predicted structure for gene843_5949155_5953436 with length 464, pLDDT 55.7, pTM 0.332 in 24.3s (amortized, batch size 2). 2146 / 2595 completed.
+23/09/06 10:34:07 | INFO | root | Predicted structure for gene1484_10511914_10518212 with length 464, pLDDT 59.7, pTM 0.458 in 24.3s (amortized, batch size 2). 2147 / 2595 completed.
+23/09/06 10:34:07 | INFO | root | Predicted structure for gene1847_13452683_13454089 with length 464, pLDDT 75.2, pTM 0.403 in 24.3s (amortized, batch size 2). 2148 / 2595 completed.
+23/09/06 10:34:58 | INFO | root | Predicted structure for gene584_4168386_4173758 with length 465, pLDDT 52.3, pTM 0.334 in 25.7s (amortized, batch size 2). 2149 / 2595 completed.
+23/09/06 10:34:58 | INFO | root | Predicted structure for gene2519_19446680_19449957 with length 465, pLDDT 61.2, pTM 0.369 in 25.7s (amortized, batch size 2). 2150 / 2595 completed.
+23/09/06 10:35:50 | INFO | root | Predicted structure for gene1470_10428073_10429488 with length 466, pLDDT 74.8, pTM 0.396 in 25.7s (amortized, batch size 2). 2151 / 2595 completed.
+23/09/06 10:35:50 | INFO | root | Predicted structure for gene1721_12517850_12519876 with length 466, pLDDT 74.8, pTM 0.430 in 25.7s (amortized, batch size 2). 2152 / 2595 completed.
+23/09/06 10:36:42 | INFO | root | Predicted structure for gene813_5778413_5780810 with length 467, pLDDT 56.7, pTM 0.264 in 26.2s (amortized, batch size 2). 2153 / 2595 completed.
+23/09/06 10:36:42 | INFO | root | Predicted structure for gene1616_11603534_11607551 with length 467, pLDDT 51.4, pTM 0.313 in 26.2s (amortized, batch size 2). 2154 / 2595 completed.
+23/09/06 10:37:33 | INFO | root | Predicted structure for gene370_2647439_2651343 with length 468, pLDDT 61.1, pTM 0.353 in 25.5s (amortized, batch size 2). 2155 / 2595 completed.
+23/09/06 10:37:33 | INFO | root | Predicted structure for gene1759_12775754_12777571 with length 468, pLDDT 78.1, pTM 0.441 in 25.5s (amortized, batch size 2). 2156 / 2595 completed.
+23/09/06 10:38:26 | INFO | root | Predicted structure for gene2588_19947257_19948961 with length 468, pLDDT 57.3, pTM 0.280 in 26.5s (amortized, batch size 2). 2157 / 2595 completed.
+23/09/06 10:38:26 | INFO | root | Predicted structure for gene428_3078687_3080111 with length 469, pLDDT 82.7, pTM 0.575 in 26.5s (amortized, batch size 2). 2158 / 2595 completed.
+23/09/06 10:39:19 | INFO | root | Predicted structure for gene1580_11362094_11363627 with length 469, pLDDT 69.1, pTM 0.349 in 26.4s (amortized, batch size 2). 2159 / 2595 completed.
+23/09/06 10:39:19 | INFO | root | Predicted structure for gene725_5166915_5168342 with length 470, pLDDT 77.9, pTM 0.531 in 26.4s (amortized, batch size 2). 2160 / 2595 completed.
+23/09/06 10:40:12 | INFO | root | Predicted structure for gene781_5542659_5544086 with length 470, pLDDT 71.3, pTM 0.473 in 26.4s (amortized, batch size 2). 2161 / 2595 completed.
+23/09/06 10:40:12 | INFO | root | Predicted structure for gene918_6476706_6478133 with length 470, pLDDT 67.8, pTM 0.456 in 26.4s (amortized, batch size 2). 2162 / 2595 completed.
+23/09/06 10:41:06 | INFO | root | Predicted structure for gene1705_12373724_12375237 with length 471, pLDDT 48.8, pTM 0.263 in 27.2s (amortized, batch size 2). 2163 / 2595 completed.
+23/09/06 10:41:06 | INFO | root | Predicted structure for gene1136_7893511_7895720 with length 473, pLDDT 65.8, pTM 0.389 in 27.2s (amortized, batch size 2). 2164 / 2595 completed.
+23/09/06 10:42:00 | INFO | root | Predicted structure for gene218_1483253_1486246 with length 474, pLDDT 44.0, pTM 0.183 in 27.0s (amortized, batch size 2). 2165 / 2595 completed.
+23/09/06 10:42:00 | INFO | root | Predicted structure for gene1024_7093459_7094898 with length 474, pLDDT 64.1, pTM 0.445 in 27.0s (amortized, batch size 2). 2166 / 2595 completed.
+23/09/06 10:42:55 | INFO | root | Predicted structure for gene1120_7788436_7790502 with length 474, pLDDT 85.2, pTM 0.463 in 27.4s (amortized, batch size 2). 2167 / 2595 completed.
+23/09/06 10:42:55 | INFO | root | Predicted structure for gene1110_7723770_7726229 with length 475, pLDDT 28.9, pTM 0.113 in 27.4s (amortized, batch size 2). 2168 / 2595 completed.
+23/09/06 10:43:49 | INFO | root | Predicted structure for gene2498_19287044_19288486 with length 475, pLDDT 85.5, pTM 0.813 in 27.1s (amortized, batch size 2). 2169 / 2595 completed.
+23/09/06 10:43:49 | INFO | root | Predicted structure for gene1316_9254969_9262018 with length 476, pLDDT 56.0, pTM 0.303 in 27.1s (amortized, batch size 2). 2170 / 2595 completed.
+23/09/06 10:44:44 | INFO | root | Predicted structure for gene2006_14668835_14679906 with length 476, pLDDT 54.9, pTM 0.216 in 27.1s (amortized, batch size 2). 2171 / 2595 completed.
+23/09/06 10:44:44 | INFO | root | Predicted structure for gene2289_17566954_17574239 with length 476, pLDDT 61.3, pTM 0.416 in 27.1s (amortized, batch size 2). 2172 / 2595 completed.
+23/09/06 10:45:39 | INFO | root | Predicted structure for gene2526_19534844_19536950 with length 477, pLDDT 62.7, pTM 0.466 in 27.5s (amortized, batch size 2). 2173 / 2595 completed.
+23/09/06 10:45:39 | INFO | root | Predicted structure for gene612_4394161_4400713 with length 478, pLDDT 76.9, pTM 0.726 in 27.5s (amortized, batch size 2). 2174 / 2595 completed.
+23/09/06 10:46:35 | INFO | root | Predicted structure for gene295_2122611_2124074 with length 482, pLDDT 42.8, pTM 0.359 in 28.3s (amortized, batch size 2). 2175 / 2595 completed.
+23/09/06 10:46:35 | INFO | root | Predicted structure for gene1012_7037594_7040063 with length 482, pLDDT 40.3, pTM 0.174 in 28.3s (amortized, batch size 2). 2176 / 2595 completed.
+23/09/06 10:47:34 | INFO | root | Predicted structure for gene367_2633176_2638266 with length 483, pLDDT 65.5, pTM 0.466 in 29.2s (amortized, batch size 2). 2177 / 2595 completed.
+23/09/06 10:47:34 | INFO | root | Predicted structure for gene948_6640002_6645623 with length 483, pLDDT 75.4, pTM 0.423 in 29.2s (amortized, batch size 2). 2178 / 2595 completed.
+23/09/06 10:48:30 | INFO | root | Predicted structure for gene2017_14824126_14826021 with length 483, pLDDT 53.6, pTM 0.214 in 28.5s (amortized, batch size 2). 2179 / 2595 completed.
+23/09/06 10:48:30 | INFO | root | Predicted structure for gene358_2578789_2581031 with length 484, pLDDT 67.6, pTM 0.431 in 28.5s (amortized, batch size 2). 2180 / 2595 completed.
+23/09/06 10:49:28 | INFO | root | Predicted structure for gene2062_15532549_15537911 with length 486, pLDDT 67.8, pTM 0.445 in 28.9s (amortized, batch size 2). 2181 / 2595 completed.
+23/09/06 10:49:28 | INFO | root | Predicted structure for gene2078_15839381_15844786 with length 486, pLDDT 68.1, pTM 0.437 in 28.9s (amortized, batch size 2). 2182 / 2595 completed.
+23/09/06 10:50:24 | INFO | root | Predicted structure for gene531_3834110_3836488 with length 488, pLDDT 54.5, pTM 0.316 in 28.0s (amortized, batch size 2). 2183 / 2595 completed.
+23/09/06 10:50:24 | INFO | root | Predicted structure for gene1514_10785727_10792004 with length 488, pLDDT 70.7, pTM 0.508 in 28.0s (amortized, batch size 2). 2184 / 2595 completed.
+23/09/06 10:51:23 | INFO | root | Predicted structure for gene95_703166_704650 with length 489, pLDDT 79.2, pTM 0.568 in 29.5s (amortized, batch size 2). 2185 / 2595 completed.
+23/09/06 10:51:23 | INFO | root | Predicted structure for gene160_1148180_1149749 with length 490, pLDDT 48.1, pTM 0.225 in 29.5s (amortized, batch size 2). 2186 / 2595 completed.
+23/09/06 10:52:22 | INFO | root | Predicted structure for gene543_3880640_3882127 with length 490, pLDDT 53.9, pTM 0.441 in 29.5s (amortized, batch size 2). 2187 / 2595 completed.
+23/09/06 10:52:22 | INFO | root | Predicted structure for gene476_3503672_3507669 with length 492, pLDDT 36.9, pTM 0.146 in 29.5s (amortized, batch size 2). 2188 / 2595 completed.
+23/09/06 10:53:23 | INFO | root | Predicted structure for gene2218_16987170_16988750 with length 492, pLDDT 71.4, pTM 0.582 in 30.5s (amortized, batch size 2). 2189 / 2595 completed.
+23/09/06 10:53:23 | INFO | root | Predicted structure for gene2311_17711214_17713450 with length 493, pLDDT 76.3, pTM 0.416 in 30.5s (amortized, batch size 2). 2190 / 2595 completed.
+23/09/06 10:54:22 | INFO | root | Predicted structure for gene461_3384903_3390286 with length 495, pLDDT 66.5, pTM 0.429 in 29.2s (amortized, batch size 2). 2191 / 2595 completed.
+23/09/06 10:54:22 | INFO | root | Predicted structure for gene1793_12927445_12930622 with length 496, pLDDT 52.7, pTM 0.274 in 29.2s (amortized, batch size 2). 2192 / 2595 completed.
+23/09/06 10:55:24 | INFO | root | Predicted structure for gene17_106754_112520 with length 497, pLDDT 43.8, pTM 0.231 in 31.2s (amortized, batch size 2). 2193 / 2595 completed.
+23/09/06 10:55:24 | INFO | root | Predicted structure for gene1266_8885139_8892681 with length 497, pLDDT 70.3, pTM 0.414 in 31.2s (amortized, batch size 2). 2194 / 2595 completed.
+23/09/06 10:56:27 | INFO | root | Predicted structure for gene2477_19109559_19111456 with length 497, pLDDT 74.3, pTM 0.532 in 31.4s (amortized, batch size 2). 2195 / 2595 completed.
+23/09/06 10:56:27 | INFO | root | Predicted structure for gene165_1172046_1174073 with length 499, pLDDT 64.5, pTM 0.310 in 31.4s (amortized, batch size 2). 2196 / 2595 completed.
+23/09/06 10:57:30 | INFO | root | Predicted structure for gene723_5150435_5151949 with length 499, pLDDT 73.0, pTM 0.391 in 31.3s (amortized, batch size 2). 2197 / 2595 completed.
+23/09/06 10:57:30 | INFO | root | Predicted structure for gene1650_11948788_11956629 with length 499, pLDDT 47.1, pTM 0.268 in 31.3s (amortized, batch size 2). 2198 / 2595 completed.
+23/09/06 10:58:31 | INFO | root | Predicted structure for gene215_1468140_1470994 with length 500, pLDDT 49.9, pTM 0.425 in 30.5s (amortized, batch size 2). 2199 / 2595 completed.
+23/09/06 10:58:31 | INFO | root | Predicted structure for gene246_1697876_1699393 with length 500, pLDDT 72.5, pTM 0.385 in 30.5s (amortized, batch size 2). 2200 / 2595 completed.
+23/09/06 10:59:31 | INFO | root | Predicted structure for gene445_3197367_3198884 with length 500, pLDDT 71.2, pTM 0.373 in 30.2s (amortized, batch size 2). 2201 / 2595 completed.
+23/09/06 10:59:31 | INFO | root | Predicted structure for gene642_4667496_4669013 with length 500, pLDDT 72.2, pTM 0.385 in 30.2s (amortized, batch size 2). 2202 / 2595 completed.
+23/09/06 11:00:32 | INFO | root | Predicted structure for gene776_5512011_5513528 with length 500, pLDDT 72.9, pTM 0.387 in 30.3s (amortized, batch size 2). 2203 / 2595 completed.
+23/09/06 11:00:32 | INFO | root | Predicted structure for gene800_5697539_5699056 with length 500, pLDDT 72.8, pTM 0.378 in 30.3s (amortized, batch size 2). 2204 / 2595 completed.
+23/09/06 11:01:32 | INFO | root | Predicted structure for gene927_6505325_6506842 with length 500, pLDDT 73.5, pTM 0.387 in 30.2s (amortized, batch size 2). 2205 / 2595 completed.
+23/09/06 11:01:32 | INFO | root | Predicted structure for gene974_6763043_6764560 with length 500, pLDDT 68.2, pTM 0.351 in 30.2s (amortized, batch size 2). 2206 / 2595 completed.
+23/09/06 11:02:33 | INFO | root | Predicted structure for gene1028_7134256_7135773 with length 500, pLDDT 71.9, pTM 0.390 in 30.2s (amortized, batch size 2). 2207 / 2595 completed.
+23/09/06 11:02:33 | INFO | root | Predicted structure for gene1391_9916646_9918163 with length 500, pLDDT 74.0, pTM 0.386 in 30.2s (amortized, batch size 2). 2208 / 2595 completed.
+23/09/06 11:03:33 | INFO | root | Predicted structure for gene1512_10756586_10758103 with length 500, pLDDT 73.6, pTM 0.385 in 30.3s (amortized, batch size 2). 2209 / 2595 completed.
+23/09/06 11:03:33 | INFO | root | Predicted structure for gene1612_11577786_11586361 with length 500, pLDDT 66.0, pTM 0.347 in 30.3s (amortized, batch size 2). 2210 / 2595 completed.
+23/09/06 11:04:34 | INFO | root | Predicted structure for gene1692_12233620_12235137 with length 500, pLDDT 73.4, pTM 0.383 in 30.3s (amortized, batch size 2). 2211 / 2595 completed.
+23/09/06 11:04:34 | INFO | root | Predicted structure for gene1825_13269946_13271463 with length 500, pLDDT 73.6, pTM 0.386 in 30.3s (amortized, batch size 2). 2212 / 2595 completed.
+23/09/06 11:05:34 | INFO | root | Predicted structure for gene1951_14287567_14289084 with length 500, pLDDT 73.2, pTM 0.386 in 30.3s (amortized, batch size 2). 2213 / 2595 completed.
+23/09/06 11:05:34 | INFO | root | Predicted structure for gene1976_14479831_14481348 with length 500, pLDDT 73.0, pTM 0.386 in 30.3s (amortized, batch size 2). 2214 / 2595 completed.
+23/09/06 11:06:35 | INFO | root | Predicted structure for gene2230_17086738_17088255 with length 500, pLDDT 72.5, pTM 0.388 in 30.3s (amortized, batch size 2). 2215 / 2595 completed.
+23/09/06 11:06:35 | INFO | root | Predicted structure for gene2298_17643889_17645731 with length 500, pLDDT 61.4, pTM 0.290 in 30.3s (amortized, batch size 2). 2216 / 2595 completed.
+23/09/06 11:07:38 | INFO | root | Predicted structure for gene2337_17925902_17927419 with length 500, pLDDT 73.1, pTM 0.385 in 31.6s (amortized, batch size 2). 2217 / 2595 completed.
+23/09/06 11:07:38 | INFO | root | Predicted structure for gene2225_17047846_17049366 with length 501, pLDDT 38.0, pTM 0.155 in 31.6s (amortized, batch size 2). 2218 / 2595 completed.
+23/09/06 11:08:37 | INFO | root | Predicted structure for gene1871_13621063_13622906 with length 503, pLDDT 70.4, pTM 0.452 in 29.8s (amortized, batch size 2). 2219 / 2595 completed.
+23/09/06 11:08:37 | INFO | root | Predicted structure for gene2124_16212625_16218076 with length 504, pLDDT 66.3, pTM 0.430 in 29.8s (amortized, batch size 2). 2220 / 2595 completed.
+23/09/06 11:09:43 | INFO | root | Predicted structure for gene1557_11209847_11212228 with length 506, pLDDT 67.7, pTM 0.371 in 32.6s (amortized, batch size 2). 2221 / 2595 completed.
+23/09/06 11:09:43 | INFO | root | Predicted structure for gene743_5290333_5292243 with length 507, pLDDT 74.7, pTM 0.405 in 32.6s (amortized, batch size 2). 2222 / 2595 completed.
+23/09/06 11:10:50 | INFO | root | Predicted structure for gene47_296631_300337 with length 511, pLDDT 40.4, pTM 0.176 in 33.6s (amortized, batch size 2). 2223 / 2595 completed.
+23/09/06 11:10:50 | INFO | root | Predicted structure for gene1402_10008642_10012606 with length 511, pLDDT 52.5, pTM 0.336 in 33.6s (amortized, batch size 2). 2224 / 2595 completed.
+23/09/06 11:11:53 | INFO | root | Predicted structure for gene2085_15891794_15893344 with length 511, pLDDT 71.3, pTM 0.359 in 31.5s (amortized, batch size 2). 2225 / 2595 completed.
+23/09/06 11:11:53 | INFO | root | Predicted structure for gene221_1530890_1532443 with length 512, pLDDT 69.0, pTM 0.344 in 31.5s (amortized, batch size 2). 2226 / 2595 completed.
+23/09/06 11:12:56 | INFO | root | Predicted structure for gene699_5006123_5007676 with length 512, pLDDT 71.4, pTM 0.415 in 31.5s (amortized, batch size 2). 2227 / 2595 completed.
+23/09/06 11:12:56 | INFO | root | Predicted structure for gene944_6622575_6626608 with length 512, pLDDT 61.3, pTM 0.514 in 31.5s (amortized, batch size 2). 2228 / 2595 completed.
+23/09/06 11:13:59 | INFO | root | Predicted structure for gene1706_12382870_12396123 with length 512, pLDDT 43.4, pTM 0.277 in 31.5s (amortized, batch size 2). 2229 / 2595 completed.
+23/09/06 11:13:59 | INFO | root | Predicted structure for gene1932_14141156_14142709 with length 512, pLDDT 69.1, pTM 0.332 in 31.5s (amortized, batch size 2). 2230 / 2595 completed.
+23/09/06 11:14:29 | INFO | root | Predicted structure for gene2508_19376207_19383818 with length 512, pLDDT 64.9, pTM 0.283 in 29.6s. 2231 / 2595 completed.
+23/09/06 11:14:59 | INFO | root | Predicted structure for gene1366_9693927_9696005 with length 514, pLDDT 55.1, pTM 0.268 in 30.3s. 2232 / 2595 completed.
+23/09/06 11:15:29 | INFO | root | Predicted structure for gene1553_11141809_11146885 with length 514, pLDDT 73.7, pTM 0.416 in 30.3s. 2233 / 2595 completed.
+23/09/06 11:15:59 | INFO | root | Predicted structure for gene1829_13308838_13321439 with length 516, pLDDT 54.6, pTM 0.267 in 30.3s. 2234 / 2595 completed.
+23/09/06 11:16:31 | INFO | root | Predicted structure for gene2165_16520636_16528445 with length 517, pLDDT 65.6, pTM 0.406 in 31.7s. 2235 / 2595 completed.
+23/09/06 11:17:02 | INFO | root | Predicted structure for gene1561_11237292_11242690 with length 518, pLDDT 67.8, pTM 0.444 in 30.9s. 2236 / 2595 completed.
+23/09/06 11:17:33 | INFO | root | Predicted structure for gene2347_18029921_18036335 with length 518, pLDDT 63.4, pTM 0.370 in 30.9s. 2237 / 2595 completed.
+23/09/06 11:18:05 | INFO | root | Predicted structure for gene30_191729_193491 with length 519, pLDDT 70.0, pTM 0.409 in 31.8s. 2238 / 2595 completed.
+23/09/06 11:18:36 | INFO | root | Predicted structure for gene1890_13808919_13813355 with length 522, pLDDT 60.4, pTM 0.344 in 31.7s. 2239 / 2595 completed.
+23/09/06 11:19:09 | INFO | root | Predicted structure for gene43_262718_269994 with length 523, pLDDT 53.0, pTM 0.266 in 32.7s. 2240 / 2595 completed.
+23/09/06 11:19:42 | INFO | root | Predicted structure for gene1772_12848369_12853521 with length 523, pLDDT 56.2, pTM 0.245 in 32.7s. 2241 / 2595 completed.
+23/09/06 11:20:15 | INFO | root | Predicted structure for gene1934_14153119_14154798 with length 525, pLDDT 67.1, pTM 0.340 in 33.1s. 2242 / 2595 completed.
+23/09/06 11:20:48 | INFO | root | Predicted structure for gene2562_19794156_19795754 with length 527, pLDDT 81.7, pTM 0.609 in 33.5s. 2243 / 2595 completed.
+23/09/06 11:21:22 | INFO | root | Predicted structure for gene602_4294932_4300265 with length 529, pLDDT 76.5, pTM 0.523 in 33.8s. 2244 / 2595 completed.
+23/09/06 11:21:56 | INFO | root | Predicted structure for gene1494_10605597_10612954 with length 529, pLDDT 63.0, pTM 0.381 in 33.8s. 2245 / 2595 completed.
+23/09/06 11:22:30 | INFO | root | Predicted structure for gene2013_14776235_14784665 with length 530, pLDDT 42.1, pTM 0.198 in 33.5s. 2246 / 2595 completed.
+23/09/06 11:23:03 | INFO | root | Predicted structure for gene2097_15973037_15980462 with length 530, pLDDT 64.0, pTM 0.435 in 33.4s. 2247 / 2595 completed.
+23/09/06 11:23:37 | INFO | root | Predicted structure for gene2399_18417982_18425407 with length 530, pLDDT 54.2, pTM 0.395 in 33.5s. 2248 / 2595 completed.
+23/09/06 11:24:10 | INFO | root | Predicted structure for gene2044_15268576_15275729 with length 532, pLDDT 67.5, pTM 0.339 in 33.5s. 2249 / 2595 completed.
+23/09/06 11:24:45 | INFO | root | Predicted structure for gene89_638540_642313 with length 533, pLDDT 65.0, pTM 0.666 in 34.6s. 2250 / 2595 completed.
+23/09/06 11:25:19 | INFO | root | Predicted structure for gene978_6781827_6783853 with length 533, pLDDT 49.4, pTM 0.237 in 34.6s. 2251 / 2595 completed.
+23/09/06 11:25:54 | INFO | root | Predicted structure for gene1653_12001189_12003365 with length 533, pLDDT 51.5, pTM 0.405 in 34.6s. 2252 / 2595 completed.
+23/09/06 11:26:28 | INFO | root | Predicted structure for gene2082_15878362_15882572 with length 533, pLDDT 70.4, pTM 0.429 in 34.6s. 2253 / 2595 completed.
+23/09/06 11:27:03 | INFO | root | Predicted structure for gene2087_15894382_15896001 with length 534, pLDDT 76.1, pTM 0.595 in 34.4s. 2254 / 2595 completed.
+23/09/06 11:27:38 | INFO | root | Predicted structure for gene2275_17428952_17439105 with length 535, pLDDT 56.4, pTM 0.390 in 35.0s. 2255 / 2595 completed.
+23/09/06 11:28:11 | INFO | root | Predicted structure for gene1639_11858728_11861185 with length 536, pLDDT 56.7, pTM 0.269 in 33.4s. 2256 / 2595 completed.
+23/09/06 11:28:45 | INFO | root | Predicted structure for gene1696_12293903_12296663 with length 536, pLDDT 41.7, pTM 0.182 in 33.4s. 2257 / 2595 completed.
+23/09/06 11:29:18 | INFO | root | Predicted structure for gene2053_15391047_15394881 with length 536, pLDDT 74.5, pTM 0.390 in 33.4s. 2258 / 2595 completed.
+23/09/06 11:29:53 | INFO | root | Predicted structure for gene644_4685084_4687436 with length 537, pLDDT 61.2, pTM 0.430 in 35.3s. 2259 / 2595 completed.
+23/09/06 11:30:29 | INFO | root | Predicted structure for gene1973_14458992_14460620 with length 537, pLDDT 79.2, pTM 0.705 in 35.3s. 2260 / 2595 completed.
+23/09/06 11:31:04 | INFO | root | Predicted structure for gene998_6915485_6917116 with length 538, pLDDT 55.0, pTM 0.299 in 35.1s. 2261 / 2595 completed.
+23/09/06 11:31:39 | INFO | root | Predicted structure for gene2505_19347907_19357969 with length 538, pLDDT 42.5, pTM 0.202 in 35.1s. 2262 / 2595 completed.
+23/09/06 11:32:14 | INFO | root | Predicted structure for gene676_4860553_4865893 with length 540, pLDDT 56.6, pTM 0.309 in 35.4s. 2263 / 2595 completed.
+23/09/06 11:32:50 | INFO | root | Predicted structure for gene186_1282587_1284227 with length 541, pLDDT 68.5, pTM 0.348 in 36.1s. 2264 / 2595 completed.
+23/09/06 11:33:26 | INFO | root | Predicted structure for gene1545_11076415_11078315 with length 542, pLDDT 63.7, pTM 0.383 in 36.0s. 2265 / 2595 completed.
+23/09/06 11:34:02 | INFO | root | Predicted structure for gene1798_12976292_12988713 with length 542, pLDDT 58.0, pTM 0.344 in 36.0s. 2266 / 2595 completed.
+23/09/06 11:34:39 | INFO | root | Predicted structure for gene2473_19065904_19068757 with length 542, pLDDT 71.7, pTM 0.376 in 36.0s. 2267 / 2595 completed.
+23/09/06 11:35:15 | INFO | root | Predicted structure for gene1178_8137827_8145650 with length 546, pLDDT 65.1, pTM 0.389 in 36.9s. 2268 / 2595 completed.
+23/09/06 11:35:52 | INFO | root | Predicted structure for gene2581_19885188_19887809 with length 546, pLDDT 52.6, pTM 0.353 in 36.8s. 2269 / 2595 completed.
+23/09/06 11:36:30 | INFO | root | Predicted structure for gene1538_11005221_11013862 with length 547, pLDDT 69.0, pTM 0.406 in 37.3s. 2270 / 2595 completed.
+23/09/06 11:37:07 | INFO | root | Predicted structure for gene2037_15121743_15124614 with length 548, pLDDT 73.5, pTM 0.410 in 37.2s. 2271 / 2595 completed.
+23/09/06 11:37:44 | INFO | root | Predicted structure for gene2271_17403405_17406276 with length 548, pLDDT 73.4, pTM 0.409 in 37.2s. 2272 / 2595 completed.
+23/09/06 11:38:22 | INFO | root | Predicted structure for gene848_5987091_5989013 with length 549, pLDDT 67.0, pTM 0.401 in 37.6s. 2273 / 2595 completed.
+23/09/06 11:39:00 | INFO | root | Predicted structure for gene1399_9990430_9992844 with length 551, pLDDT 78.8, pTM 0.517 in 38.5s. 2274 / 2595 completed.
+23/09/06 11:39:39 | INFO | root | Predicted structure for gene1468_10413905_10415821 with length 551, pLDDT 56.5, pTM 0.282 in 38.5s. 2275 / 2595 completed.
+23/09/06 11:40:17 | INFO | root | Predicted structure for gene1808_13103545_13106367 with length 551, pLDDT 47.2, pTM 0.288 in 38.5s. 2276 / 2595 completed.
+23/09/06 11:40:54 | INFO | root | Predicted structure for gene814_5782723_5786186 with length 552, pLDDT 67.5, pTM 0.373 in 36.6s. 2277 / 2595 completed.
+23/09/06 11:41:32 | INFO | root | Predicted structure for gene549_3913803_3915479 with length 553, pLDDT 87.7, pTM 0.778 in 38.2s. 2278 / 2595 completed.
+23/09/06 11:42:11 | INFO | root | Predicted structure for gene1849_13466000_13478088 with length 555, pLDDT 43.6, pTM 0.292 in 38.8s. 2279 / 2595 completed.
+23/09/06 11:42:49 | INFO | root | Predicted structure for gene975_6774366_6776732 with length 558, pLDDT 60.8, pTM 0.286 in 38.8s. 2280 / 2595 completed.
+23/09/06 11:43:28 | INFO | root | Predicted structure for gene1555_11176166_11181695 with length 558, pLDDT 71.5, pTM 0.375 in 38.8s. 2281 / 2595 completed.
+23/09/06 11:44:07 | INFO | root | Predicted structure for gene1035_7174070_7177577 with length 560, pLDDT 45.1, pTM 0.205 in 38.5s. 2282 / 2595 completed.
+23/09/06 11:44:45 | INFO | root | Predicted structure for gene1536_10970068_10972218 with length 560, pLDDT 80.8, pTM 0.398 in 38.5s. 2283 / 2595 completed.
+23/09/06 11:45:26 | INFO | root | Predicted structure for gene1488_10546939_10549480 with length 563, pLDDT 86.1, pTM 0.922 in 40.5s. 2284 / 2595 completed.
+23/09/06 11:46:06 | INFO | root | Predicted structure for gene1977_14482315_14488434 with length 563, pLDDT 57.0, pTM 0.335 in 40.5s. 2285 / 2595 completed.
+23/09/06 11:46:47 | INFO | root | Predicted structure for gene2070_15737433_15754719 with length 563, pLDDT 55.8, pTM 0.326 in 40.5s. 2286 / 2595 completed.
+23/09/06 11:47:26 | INFO | root | Predicted structure for gene375_2679557_2682852 with length 564, pLDDT 61.7, pTM 0.230 in 39.4s. 2287 / 2595 completed.
+23/09/06 11:48:06 | INFO | root | Predicted structure for gene1812_13120632_13123069 with length 564, pLDDT 63.7, pTM 0.399 in 39.4s. 2288 / 2595 completed.
+23/09/06 11:48:47 | INFO | root | Predicted structure for gene2372_18158226_18163840 with length 567, pLDDT 62.6, pTM 0.343 in 41.0s. 2289 / 2595 completed.
+23/09/06 11:49:26 | INFO | root | Predicted structure for gene587_4192771_4200552 with length 568, pLDDT 45.0, pTM 0.219 in 39.4s. 2290 / 2595 completed.
+23/09/06 11:50:06 | INFO | root | Predicted structure for gene1887_13768434_13777895 with length 568, pLDDT 38.8, pTM 0.242 in 39.5s. 2291 / 2595 completed.
+23/09/06 11:50:45 | INFO | root | Predicted structure for gene2144_16340226_16343666 with length 568, pLDDT 73.8, pTM 0.466 in 39.4s. 2292 / 2595 completed.
+23/09/06 11:51:27 | INFO | root | Predicted structure for gene593_4239996_4243573 with length 573, pLDDT 69.6, pTM 0.409 in 41.6s. 2293 / 2595 completed.
+23/09/06 11:52:09 | INFO | root | Predicted structure for gene211_1423517_1431819 with length 574, pLDDT 67.6, pTM 0.375 in 42.8s. 2294 / 2595 completed.
+23/09/06 11:52:52 | INFO | root | Predicted structure for gene356_2568073_2570404 with length 574, pLDDT 55.2, pTM 0.258 in 42.8s. 2295 / 2595 completed.
+23/09/06 11:53:34 | INFO | root | Predicted structure for gene1000_6933073_6935446 with length 575, pLDDT 50.1, pTM 0.213 in 41.9s. 2296 / 2595 completed.
+23/09/06 11:54:16 | INFO | root | Predicted structure for gene1188_8203884_8206231 with length 575, pLDDT 56.0, pTM 0.371 in 42.0s. 2297 / 2595 completed.
+23/09/06 11:54:58 | INFO | root | Predicted structure for gene1649_11943814_11948382 with length 575, pLDDT 74.5, pTM 0.370 in 42.0s. 2298 / 2595 completed.
+23/09/06 11:55:40 | INFO | root | Predicted structure for gene1924_14099551_14101296 with length 575, pLDDT 68.9, pTM 0.349 in 41.9s. 2299 / 2595 completed.
+23/09/06 11:56:21 | INFO | root | Predicted structure for gene1519_10811838_10814071 with length 576, pLDDT 79.6, pTM 0.536 in 41.1s. 2300 / 2595 completed.
+23/09/06 11:57:04 | INFO | root | Predicted structure for gene1879_13704434_13708679 with length 577, pLDDT 63.9, pTM 0.406 in 42.9s. 2301 / 2595 completed.
+23/09/06 11:57:48 | INFO | root | Predicted structure for gene1201_8354635_8360516 with length 578, pLDDT 71.4, pTM 0.389 in 44.0s. 2302 / 2595 completed.
+23/09/06 11:58:32 | INFO | root | Predicted structure for gene2533_19562174_19564075 with length 580, pLDDT 63.0, pTM 0.379 in 43.7s. 2303 / 2595 completed.
+23/09/06 11:59:15 | INFO | root | Predicted structure for gene750_5358116_5359879 with length 581, pLDDT 77.3, pTM 0.685 in 43.6s. 2304 / 2595 completed.
+23/09/06 11:59:59 | INFO | root | Predicted structure for gene1444_10224384_10228126 with length 581, pLDDT 50.2, pTM 0.269 in 43.6s. 2305 / 2595 completed.
+23/09/06 12:00:44 | INFO | root | Predicted structure for gene1286_9055253_9057922 with length 582, pLDDT 56.8, pTM 0.270 in 44.6s. 2306 / 2595 completed.
+23/09/06 12:01:28 | INFO | root | Predicted structure for gene1672_12097920_12099820 with length 582, pLDDT 66.5, pTM 0.332 in 44.6s. 2307 / 2595 completed.
+23/09/06 12:02:11 | INFO | root | Predicted structure for gene179_1216809_1218581 with length 584, pLDDT 54.4, pTM 0.313 in 43.1s. 2308 / 2595 completed.
+23/09/06 12:02:54 | INFO | root | Predicted structure for gene1340_9492891_9494839 with length 584, pLDDT 59.6, pTM 0.322 in 43.1s. 2309 / 2595 completed.
+23/09/06 12:03:38 | INFO | root | Predicted structure for gene2016_14812390_14822727 with length 584, pLDDT 66.4, pTM 0.414 in 43.1s. 2310 / 2595 completed.
+23/09/06 12:04:23 | INFO | root | Predicted structure for gene826_5871432_5873597 with length 585, pLDDT 53.3, pTM 0.252 in 45.0s. 2311 / 2595 completed.
+23/09/06 12:05:07 | INFO | root | Predicted structure for gene1121_7791189_7793089 with length 586, pLDDT 63.6, pTM 0.376 in 44.5s. 2312 / 2595 completed.
+23/09/06 12:05:54 | INFO | root | Predicted structure for gene2116_16138618_16149775 with length 587, pLDDT 43.3, pTM 0.228 in 46.8s. 2313 / 2595 completed.
+23/09/06 12:06:38 | INFO | root | Predicted structure for gene9_44917_46784 with length 588, pLDDT 68.0, pTM 0.326 in 44.1s. 2314 / 2595 completed.
+23/09/06 12:07:25 | INFO | root | Predicted structure for gene2021_14857291_14862331 with length 589, pLDDT 64.0, pTM 0.420 in 46.6s. 2315 / 2595 completed.
+23/09/06 12:08:10 | INFO | root | Predicted structure for gene2031_14947527_14970584 with length 592, pLDDT 52.9, pTM 0.324 in 45.2s. 2316 / 2595 completed.
+23/09/06 12:08:56 | INFO | root | Predicted structure for gene1778_12868284_12870244 with length 593, pLDDT 75.6, pTM 0.512 in 46.3s. 2317 / 2595 completed.
+23/09/06 12:09:44 | INFO | root | Predicted structure for gene1670_12080190_12086189 with length 595, pLDDT 59.1, pTM 0.398 in 48.0s. 2318 / 2595 completed.
+23/09/06 12:10:30 | INFO | root | Predicted structure for gene1130_7851397_7853205 with length 596, pLDDT 82.6, pTM 0.629 in 45.7s. 2319 / 2595 completed.
+23/09/06 12:11:16 | INFO | root | Predicted structure for gene1357_9620085_9622920 with length 596, pLDDT 49.2, pTM 0.399 in 45.7s. 2320 / 2595 completed.
+23/09/06 12:12:03 | INFO | root | Predicted structure for gene878_6184532_6188370 with length 597, pLDDT 56.9, pTM 0.292 in 47.7s. 2321 / 2595 completed.
+23/09/06 12:12:51 | INFO | root | Predicted structure for gene1228_8656526_8661025 with length 599, pLDDT 59.9, pTM 0.351 in 47.3s. 2322 / 2595 completed.
+23/09/06 12:13:37 | INFO | root | Predicted structure for gene1430_10154181_10156001 with length 600, pLDDT 48.9, pTM 0.236 in 46.6s. 2323 / 2595 completed.
+23/09/06 12:14:24 | INFO | root | Predicted structure for gene1800_13005254_13008546 with length 600, pLDDT 50.0, pTM 0.220 in 46.7s. 2324 / 2595 completed.
+23/09/06 12:15:14 | INFO | root | Predicted structure for gene746_5316217_5320722 with length 601, pLDDT 78.1, pTM 0.366 in 50.3s. 2325 / 2595 completed.
+23/09/06 12:16:05 | INFO | root | Predicted structure for gene1395_9963348_9966475 with length 601, pLDDT 67.5, pTM 0.380 in 50.3s. 2326 / 2595 completed.
+23/09/06 12:16:55 | INFO | root | Predicted structure for gene2397_18401365_18410010 with length 601, pLDDT 62.2, pTM 0.409 in 50.3s. 2327 / 2595 completed.
+23/09/06 12:17:43 | INFO | root | Predicted structure for gene196_1326272_1330698 with length 602, pLDDT 69.1, pTM 0.397 in 48.4s. 2328 / 2595 completed.
+23/09/06 12:18:32 | INFO | root | Predicted structure for gene2068_15635749_15641147 with length 603, pLDDT 59.6, pTM 0.385 in 49.1s. 2329 / 2595 completed.
+23/09/06 12:19:22 | INFO | root | Predicted structure for gene1304_9160288_9163863 with length 604, pLDDT 30.5, pTM 0.160 in 49.7s. 2330 / 2595 completed.
+23/09/06 12:20:12 | INFO | root | Predicted structure for gene1845_13425273_13431441 with length 604, pLDDT 41.7, pTM 0.190 in 49.7s. 2331 / 2595 completed.
+23/09/06 12:21:02 | INFO | root | Predicted structure for gene751_5363754_5367543 with length 605, pLDDT 68.7, pTM 0.382 in 50.3s. 2332 / 2595 completed.
+23/09/06 12:21:51 | INFO | root | Predicted structure for gene1405_10029538_10034808 with length 606, pLDDT 62.6, pTM 0.366 in 48.9s. 2333 / 2595 completed.
+23/09/06 12:22:40 | INFO | root | Predicted structure for gene1681_12124592_12130550 with length 606, pLDDT 59.8, pTM 0.409 in 48.9s. 2334 / 2595 completed.
+23/09/06 12:23:30 | INFO | root | Predicted structure for gene1418_10086309_10089178 with length 607, pLDDT 77.1, pTM 0.530 in 50.6s. 2335 / 2595 completed.
+23/09/06 12:24:21 | INFO | root | Predicted structure for gene1584_11375748_11377720 with length 607, pLDDT 76.9, pTM 0.621 in 50.6s. 2336 / 2595 completed.
+23/09/06 12:25:12 | INFO | root | Predicted structure for gene2213_16944675_16952584 with length 607, pLDDT 67.2, pTM 0.366 in 50.6s. 2337 / 2595 completed.
+23/09/06 12:26:01 | INFO | root | Predicted structure for gene1868_13600260_13602340 with length 608, pLDDT 61.3, pTM 0.270 in 49.3s. 2338 / 2595 completed.
+23/09/06 12:26:50 | INFO | root | Predicted structure for gene1998_14596678_14598522 with length 608, pLDDT 82.4, pTM 0.542 in 49.3s. 2339 / 2595 completed.
+23/09/06 12:27:42 | INFO | root | Predicted structure for gene912_6425414_6429829 with length 609, pLDDT 58.9, pTM 0.383 in 51.3s. 2340 / 2595 completed.
+23/09/06 12:28:32 | INFO | root | Predicted structure for gene1140_7913995_7915845 with length 610, pLDDT 45.1, pTM 0.243 in 49.9s. 2341 / 2595 completed.
+23/09/06 12:29:23 | INFO | root | Predicted structure for gene828_5874633_5877955 with length 611, pLDDT 63.8, pTM 0.420 in 51.7s. 2342 / 2595 completed.
+23/09/06 12:30:15 | INFO | root | Predicted structure for gene1128_7836669_7844033 with length 611, pLDDT 49.6, pTM 0.376 in 51.6s. 2343 / 2595 completed.
+23/09/06 12:31:07 | INFO | root | Predicted structure for gene213_1444062_1452406 with length 612, pLDDT 66.6, pTM 0.381 in 51.8s. 2344 / 2595 completed.
+23/09/06 12:31:58 | INFO | root | Predicted structure for gene1369_9700462_9702318 with length 612, pLDDT 70.0, pTM 0.347 in 51.8s. 2345 / 2595 completed.
+23/09/06 12:32:50 | INFO | root | Predicted structure for gene547_3903771_3908832 with length 615, pLDDT 78.3, pTM 0.570 in 51.7s. 2346 / 2595 completed.
+23/09/06 12:33:41 | INFO | root | Predicted structure for gene1036_7179034_7181857 with length 616, pLDDT 60.0, pTM 0.362 in 50.4s. 2347 / 2595 completed.
+23/09/06 12:34:35 | INFO | root | Predicted structure for gene1499_10654762_10659344 with length 617, pLDDT 65.5, pTM 0.378 in 54.2s. 2348 / 2595 completed.
+23/09/06 12:35:29 | INFO | root | Predicted structure for gene1_1_2095 with length 618, pLDDT 46.2, pTM 0.382 in 53.8s. 2349 / 2595 completed.
+23/09/06 12:36:22 | INFO | root | Predicted structure for gene1102_7656491_7664408 with length 618, pLDDT 61.8, pTM 0.365 in 53.8s. 2350 / 2595 completed.
+23/09/06 12:37:17 | INFO | root | Predicted structure for gene1914_14030527_14033038 with length 618, pLDDT 52.5, pTM 0.235 in 54.1s. 2351 / 2595 completed.
+23/09/06 12:38:10 | INFO | root | Predicted structure for gene2136_16307419_16310215 with length 619, pLDDT 65.4, pTM 0.366 in 53.7s. 2352 / 2595 completed.
+23/09/06 12:39:02 | INFO | root | Predicted structure for gene2340_17965266_17967215 with length 620, pLDDT 48.1, pTM 0.368 in 52.0s. 2353 / 2595 completed.
+23/09/06 12:39:56 | INFO | root | Predicted structure for gene665_4791292_4793175 with length 621, pLDDT 69.1, pTM 0.360 in 53.6s. 2354 / 2595 completed.
+23/09/06 12:40:50 | INFO | root | Predicted structure for gene1109_7721012_7723702 with length 621, pLDDT 68.9, pTM 0.462 in 53.6s. 2355 / 2595 completed.
+23/09/06 12:41:44 | INFO | root | Predicted structure for gene112_873485_875457 with length 622, pLDDT 75.5, pTM 0.531 in 54.1s. 2356 / 2595 completed.
+23/09/06 12:42:38 | INFO | root | Predicted structure for gene364_2610152_2615550 with length 622, pLDDT 65.5, pTM 0.381 in 54.1s. 2357 / 2595 completed.
+23/09/06 12:43:33 | INFO | root | Predicted structure for gene138_1021954_1023843 with length 623, pLDDT 47.4, pTM 0.248 in 55.6s. 2358 / 2595 completed.
+23/09/06 12:44:27 | INFO | root | Predicted structure for gene321_2265921_2270501 with length 624, pLDDT 73.2, pTM 0.350 in 53.5s. 2359 / 2595 completed.
+23/09/06 12:45:20 | INFO | root | Predicted structure for gene792_5626578_5628470 with length 624, pLDDT 80.0, pTM 0.386 in 53.5s. 2360 / 2595 completed.
+23/09/06 12:46:14 | INFO | root | Predicted structure for gene2112_16093828_16095932 with length 624, pLDDT 75.9, pTM 0.436 in 53.5s. 2361 / 2595 completed.
+23/09/06 12:47:10 | INFO | root | Predicted structure for gene550_3915543_3917444 with length 627, pLDDT 71.3, pTM 0.371 in 55.6s. 2362 / 2595 completed.
+23/09/06 12:48:05 | INFO | root | Predicted structure for gene1965_14397924_14400106 with length 627, pLDDT 78.5, pTM 0.815 in 55.6s. 2363 / 2595 completed.
+23/09/06 12:49:01 | INFO | root | Predicted structure for gene2004_14647241_14650962 with length 627, pLDDT 50.7, pTM 0.212 in 55.6s. 2364 / 2595 completed.
+23/09/06 12:49:56 | INFO | root | Predicted structure for gene1523_10847957_10851225 with length 630, pLDDT 55.7, pTM 0.226 in 55.6s. 2365 / 2595 completed.
+23/09/06 12:50:52 | INFO | root | Predicted structure for gene2435_18690980_18698895 with length 630, pLDDT 62.6, pTM 0.356 in 55.6s. 2366 / 2595 completed.
+23/09/06 12:51:49 | INFO | root | Predicted structure for gene475_3493831_3501859 with length 631, pLDDT 42.1, pTM 0.255 in 56.7s. 2367 / 2595 completed.
+23/09/06 12:52:43 | INFO | root | Predicted structure for gene466_3453104_3458696 with length 632, pLDDT 64.6, pTM 0.367 in 54.3s. 2368 / 2595 completed.
+23/09/06 12:53:41 | INFO | root | Predicted structure for gene132_986102_991150 with length 634, pLDDT 60.0, pTM 0.296 in 57.8s. 2369 / 2595 completed.
+23/09/06 12:54:40 | INFO | root | Predicted structure for gene622_4504511_4509441 with length 635, pLDDT 66.4, pTM 0.380 in 58.8s. 2370 / 2595 completed.
+23/09/06 12:55:38 | INFO | root | Predicted structure for gene2290_17576845_17588750 with length 635, pLDDT 46.3, pTM 0.207 in 58.8s. 2371 / 2595 completed.
+23/09/06 12:56:36 | INFO | root | Predicted structure for gene329_2344635_2349710 with length 636, pLDDT 64.2, pTM 0.363 in 57.8s. 2372 / 2595 completed.
+23/09/06 12:57:36 | INFO | root | Predicted structure for gene698_4989612_4991681 with length 637, pLDDT 83.1, pTM 0.797 in 59.6s. 2373 / 2595 completed.
+23/09/06 12:58:35 | INFO | root | Predicted structure for gene798_5678609_5684294 with length 638, pLDDT 66.3, pTM 0.316 in 59.4s. 2374 / 2595 completed.
+23/09/06 12:59:35 | INFO | root | Predicted structure for gene847_5972364_5975071 with length 639, pLDDT 60.6, pTM 0.320 in 60.1s. 2375 / 2595 completed.
+23/09/06 13:00:35 | INFO | root | Predicted structure for gene2457_18904954_18908172 with length 642, pLDDT 61.3, pTM 0.237 in 59.8s. 2376 / 2595 completed.
+23/09/06 13:01:35 | INFO | root | Predicted structure for gene2506_19368304_19372526 with length 642, pLDDT 70.9, pTM 0.342 in 59.8s. 2377 / 2595 completed.
+23/09/06 13:02:35 | INFO | root | Predicted structure for gene610_4365766_4370810 with length 643, pLDDT 61.5, pTM 0.296 in 60.4s. 2378 / 2595 completed.
+23/09/06 13:03:35 | INFO | root | Predicted structure for gene219_1494628_1498327 with length 644, pLDDT 64.4, pTM 0.381 in 59.2s. 2379 / 2595 completed.
+23/09/06 13:04:35 | INFO | root | Predicted structure for gene858_6028244_6036656 with length 645, pLDDT 63.3, pTM 0.312 in 60.5s. 2380 / 2595 completed.
+23/09/06 13:05:38 | INFO | root | Predicted structure for gene1175_8124086_8127347 with length 655, pLDDT 62.1, pTM 0.226 in 62.8s. 2381 / 2595 completed.
+23/09/06 13:06:41 | INFO | root | Predicted structure for gene1505_10704324_10707068 with length 657, pLDDT 54.9, pTM 0.228 in 63.2s. 2382 / 2595 completed.
+23/09/06 13:07:44 | INFO | root | Predicted structure for gene1746_12726613_12728604 with length 657, pLDDT 80.6, pTM 0.564 in 63.2s. 2383 / 2595 completed.
+23/09/06 13:08:47 | INFO | root | Predicted structure for gene2286_17542978_17545866 with length 658, pLDDT 37.8, pTM 0.214 in 62.2s. 2384 / 2595 completed.
+23/09/06 13:09:48 | INFO | root | Predicted structure for gene2388_18306414_18312123 with length 660, pLDDT 66.5, pTM 0.334 in 61.5s. 2385 / 2595 completed.
+23/09/06 13:10:52 | INFO | root | Predicted structure for gene1941_14216593_14218602 with length 662, pLDDT 73.1, pTM 0.488 in 63.6s. 2386 / 2595 completed.
+23/09/06 13:11:57 | INFO | root | Predicted structure for gene78_575171_582204 with length 663, pLDDT 41.6, pTM 0.263 in 64.9s. 2387 / 2595 completed.
+23/09/06 13:12:57 | INFO | root | Predicted structure for gene342_2465570_2472224 with length 664, pLDDT 52.7, pTM 0.495 in 60.7s. 2388 / 2595 completed.
+23/09/06 13:13:58 | INFO | root | Predicted structure for gene1675_12103529_12105962 with length 664, pLDDT 50.2, pTM 0.195 in 60.7s. 2389 / 2595 completed.
+23/09/06 13:15:02 | INFO | root | Predicted structure for gene588_4200937_4206936 with length 665, pLDDT 76.3, pTM 0.485 in 64.2s. 2390 / 2595 completed.
+23/09/06 13:16:07 | INFO | root | Predicted structure for gene512_3721148_3723260 with length 667, pLDDT 46.7, pTM 0.236 in 64.9s. 2391 / 2595 completed.
+23/09/06 13:17:12 | INFO | root | Predicted structure for gene697_4970402_4975435 with length 667, pLDDT 66.1, pTM 0.369 in 64.9s. 2392 / 2595 completed.
+23/09/06 13:18:17 | INFO | root | Predicted structure for gene811_5752179_5759762 with length 668, pLDDT 68.9, pTM 0.313 in 64.5s. 2393 / 2595 completed.
+23/09/06 13:19:21 | INFO | root | Predicted structure for gene1083_7539239_7543518 with length 668, pLDDT 64.8, pTM 0.374 in 64.5s. 2394 / 2595 completed.
+23/09/06 13:20:26 | INFO | root | Predicted structure for gene724_5154036_5156066 with length 669, pLDDT 46.2, pTM 0.355 in 64.8s. 2395 / 2595 completed.
+23/09/06 13:21:31 | INFO | root | Predicted structure for gene2190_16708814_16711321 with length 669, pLDDT 48.4, pTM 0.241 in 64.8s. 2396 / 2595 completed.
+23/09/06 13:22:33 | INFO | root | Predicted structure for gene1411_10056421_10059262 with length 672, pLDDT 64.1, pTM 0.330 in 62.7s. 2397 / 2595 completed.
+23/09/06 13:23:36 | INFO | root | Predicted structure for gene1682_12132352_12138417 with length 672, pLDDT 57.9, pTM 0.234 in 62.7s. 2398 / 2595 completed.
+23/09/06 13:24:43 | INFO | root | Predicted structure for gene2352_18052526_18058420 with length 673, pLDDT 48.9, pTM 0.336 in 66.3s. 2399 / 2595 completed.
+23/09/06 13:25:48 | INFO | root | Predicted structure for gene297_2127360_2129942 with length 674, pLDDT 84.4, pTM 0.676 in 65.0s. 2400 / 2595 completed.
+23/09/06 13:26:54 | INFO | root | Predicted structure for gene1605_11542123_11546101 with length 676, pLDDT 62.1, pTM 0.259 in 66.8s. 2401 / 2595 completed.
+23/09/06 13:28:03 | INFO | root | Predicted structure for gene962_6694981_6700750 with length 679, pLDDT 68.7, pTM 0.398 in 68.7s. 2402 / 2595 completed.
+23/09/06 13:29:07 | INFO | root | Predicted structure for gene1997_14594140_14596203 with length 680, pLDDT 66.7, pTM 0.339 in 63.7s. 2403 / 2595 completed.
+23/09/06 13:30:15 | INFO | root | Predicted structure for gene1019_7059616_7062199 with length 681, pLDDT 60.1, pTM 0.232 in 68.1s. 2404 / 2595 completed.
+23/09/06 13:31:24 | INFO | root | Predicted structure for gene1172_8113276_8115883 with length 685, pLDDT 41.8, pTM 0.218 in 69.6s. 2405 / 2595 completed.
+23/09/06 13:32:34 | INFO | root | Predicted structure for gene2268_17373764_17379196 with length 685, pLDDT 63.5, pTM 0.343 in 69.6s. 2406 / 2595 completed.
+23/09/06 13:33:43 | INFO | root | Predicted structure for gene108_820254_822870 with length 686, pLDDT 66.0, pTM 0.412 in 69.1s. 2407 / 2595 completed.
+23/09/06 13:34:53 | INFO | root | Predicted structure for gene1158_8004483_8009884 with length 687, pLDDT 65.9, pTM 0.364 in 69.9s. 2408 / 2595 completed.
+23/09/06 13:36:03 | INFO | root | Predicted structure for gene1306_9174771_9176855 with length 687, pLDDT 52.4, pTM 0.284 in 69.9s. 2409 / 2595 completed.
+23/09/06 13:37:14 | INFO | root | Predicted structure for gene663_4781359_4786763 with length 689, pLDDT 59.8, pTM 0.290 in 70.5s. 2410 / 2595 completed.
+23/09/06 13:38:24 | INFO | root | Predicted structure for gene682_4891517_4894542 with length 689, pLDDT 79.9, pTM 0.530 in 70.5s. 2411 / 2595 completed.
+23/09/06 13:39:35 | INFO | root | Predicted structure for gene1315_9246269_9250739 with length 689, pLDDT 67.5, pTM 0.353 in 70.5s. 2412 / 2595 completed.
+23/09/06 13:40:45 | INFO | root | Predicted structure for gene1974_14461981_14471100 with length 690, pLDDT 62.5, pTM 0.527 in 70.1s. 2413 / 2595 completed.
+23/09/06 13:41:56 | INFO | root | Predicted structure for gene2459_18916182_18918776 with length 691, pLDDT 52.6, pTM 0.195 in 70.9s. 2414 / 2595 completed.
+23/09/06 13:43:07 | INFO | root | Predicted structure for gene508_3697902_3700007 with length 694, pLDDT 42.8, pTM 0.340 in 71.0s. 2415 / 2595 completed.
+23/09/06 13:44:18 | INFO | root | Predicted structure for gene840_5937157_5939262 with length 694, pLDDT 76.8, pTM 0.755 in 71.0s. 2416 / 2595 completed.
+23/09/06 13:45:29 | INFO | root | Predicted structure for gene1060_7347925_7352937 with length 694, pLDDT 51.0, pTM 0.304 in 71.0s. 2417 / 2595 completed.
+23/09/06 13:46:41 | INFO | root | Predicted structure for gene1779_12870949_12873952 with length 695, pLDDT 57.9, pTM 0.338 in 72.7s. 2418 / 2595 completed.
+23/09/06 13:47:50 | INFO | root | Predicted structure for gene175_1207425_1209536 with length 696, pLDDT 79.2, pTM 0.578 in 68.1s. 2419 / 2595 completed.
+23/09/06 13:48:58 | INFO | root | Predicted structure for gene1527_10880086_10888000 with length 696, pLDDT 63.9, pTM 0.339 in 68.1s. 2420 / 2595 completed.
+23/09/06 13:50:11 | INFO | root | Predicted structure for gene343_2477910_2482641 with length 697, pLDDT 67.9, pTM 0.355 in 73.0s. 2421 / 2595 completed.
+23/09/06 13:51:23 | INFO | root | Predicted structure for gene8_41798_44497 with length 698, pLDDT 80.5, pTM 0.572 in 72.8s. 2422 / 2595 completed.
+23/09/06 13:52:37 | INFO | root | Predicted structure for gene260_1842946_1845203 with length 699, pLDDT 73.4, pTM 0.564 in 73.3s. 2423 / 2595 completed.
+23/09/06 13:53:50 | INFO | root | Predicted structure for gene700_5011775_5015032 with length 699, pLDDT 54.9, pTM 0.205 in 73.3s. 2424 / 2595 completed.
+23/09/06 13:55:03 | INFO | root | Predicted structure for gene832_5901087_5903464 with length 700, pLDDT 76.6, pTM 0.487 in 73.0s. 2425 / 2595 completed.
+23/09/06 13:56:17 | INFO | root | Predicted structure for gene933_6556590_6558716 with length 701, pLDDT 75.5, pTM 0.397 in 74.0s. 2426 / 2595 completed.
+23/09/06 13:57:29 | INFO | root | Predicted structure for gene703_5022825_5031593 with length 704, pLDDT 59.7, pTM 0.243 in 71.8s. 2427 / 2595 completed.
+23/09/06 13:58:46 | INFO | root | Predicted structure for gene354_2562934_2565201 with length 705, pLDDT 81.5, pTM 0.698 in 76.8s. 2428 / 2595 completed.
+23/09/06 14:00:02 | INFO | root | Predicted structure for gene2030_14929243_14932351 with length 708, pLDDT 58.4, pTM 0.261 in 76.2s. 2429 / 2595 completed.
+23/09/06 14:01:20 | INFO | root | Predicted structure for gene2036_15082501_15103392 with length 711, pLDDT 53.3, pTM 0.372 in 78.6s. 2430 / 2595 completed.
+23/09/06 14:02:39 | INFO | root | Predicted structure for gene2564_19799549_19802219 with length 711, pLDDT 48.9, pTM 0.227 in 78.6s. 2431 / 2595 completed.
+23/09/06 14:03:53 | INFO | root | Predicted structure for gene2449_18841388_18843784 with length 712, pLDDT 79.3, pTM 0.551 in 74.5s. 2432 / 2595 completed.
+23/09/06 14:05:13 | INFO | root | Predicted structure for gene1656_12007307_12009469 with length 713, pLDDT 82.5, pTM 0.703 in 79.4s. 2433 / 2595 completed.
+23/09/06 14:06:31 | INFO | root | Predicted structure for gene1008_6987229_6999026 with length 714, pLDDT 64.5, pTM 0.416 in 78.6s. 2434 / 2595 completed.
+23/09/06 14:07:52 | INFO | root | Predicted structure for gene646_4689546_4692334 with length 715, pLDDT 80.8, pTM 0.508 in 80.2s. 2435 / 2595 completed.
+23/09/06 14:09:12 | INFO | root | Predicted structure for gene1283_9036253_9039976 with length 717, pLDDT 65.3, pTM 0.721 in 80.7s. 2436 / 2595 completed.
+23/09/06 14:10:30 | INFO | root | Predicted structure for gene862_6053422_6058452 with length 720, pLDDT 63.1, pTM 0.348 in 77.7s. 2437 / 2595 completed.
+23/09/06 14:11:48 | INFO | root | Predicted structure for gene1429_10151140_10153961 with length 720, pLDDT 73.0, pTM 0.501 in 77.7s. 2438 / 2595 completed.
+23/09/06 14:13:08 | INFO | root | Predicted structure for gene2065_15599208_15604612 with length 724, pLDDT 63.0, pTM 0.347 in 80.7s. 2439 / 2595 completed.
+23/09/06 14:14:32 | INFO | root | Predicted structure for gene1938_14158338_14164593 with length 725, pLDDT 47.9, pTM 0.234 in 83.5s. 2440 / 2595 completed.
+23/09/06 14:15:56 | INFO | root | Predicted structure for gene2478_19112518_19120989 with length 725, pLDDT 67.7, pTM 0.345 in 83.5s. 2441 / 2595 completed.
+23/09/06 14:17:21 | INFO | root | Predicted structure for gene396_2828071_2833471 with length 731, pLDDT 62.4, pTM 0.338 in 85.4s. 2442 / 2595 completed.
+23/09/06 14:18:46 | INFO | root | Predicted structure for gene609_4357918_4362963 with length 731, pLDDT 65.0, pTM 0.341 in 85.4s. 2443 / 2595 completed.
+23/09/06 14:20:12 | INFO | root | Predicted structure for gene2438_18710199_18713379 with length 734, pLDDT 53.1, pTM 0.303 in 85.4s. 2444 / 2595 completed.
+23/09/06 14:21:34 | INFO | root | Predicted structure for gene2343_17981282_17998429 with length 736, pLDDT 75.9, pTM 0.433 in 82.3s. 2445 / 2595 completed.
+23/09/06 14:23:02 | INFO | root | Predicted structure for gene1205_8414036_8422614 with length 739, pLDDT 65.5, pTM 0.338 in 88.3s. 2446 / 2595 completed.
+23/09/06 14:24:32 | INFO | root | Predicted structure for gene2370_18138549_18141365 with length 743, pLDDT 81.3, pTM 0.473 in 89.3s. 2447 / 2595 completed.
+23/09/06 14:26:01 | INFO | root | Predicted structure for gene1301_9123002_9131476 with length 746, pLDDT 59.7, pTM 0.284 in 89.5s. 2448 / 2595 completed.
+23/09/06 14:27:32 | INFO | root | Predicted structure for gene589_4209901_4212944 with length 747, pLDDT 50.0, pTM 0.285 in 90.9s. 2449 / 2595 completed.
+23/09/06 14:29:05 | INFO | root | Predicted structure for gene934_6558810_6563961 with length 755, pLDDT 65.5, pTM 0.426 in 93.3s. 2450 / 2595 completed.
+23/09/06 14:30:39 | INFO | root | Predicted structure for gene972_6757467_6761941 with length 755, pLDDT 70.2, pTM 0.336 in 93.3s. 2451 / 2595 completed.
+23/09/06 14:32:12 | INFO | root | Predicted structure for gene1276_8971375_8973866 with length 755, pLDDT 56.1, pTM 0.327 in 93.3s. 2452 / 2595 completed.
+23/09/06 14:33:46 | INFO | root | Predicted structure for gene231_1576249_1578948 with length 757, pLDDT 44.8, pTM 0.197 in 93.9s. 2453 / 2595 completed.
+23/09/06 14:35:20 | INFO | root | Predicted structure for gene469_3469771_3472847 with length 757, pLDDT 52.3, pTM 0.330 in 93.9s. 2454 / 2595 completed.
+23/09/06 14:36:53 | INFO | root | Predicted structure for gene1809_13108429_13111193 with length 757, pLDDT 50.1, pTM 0.202 in 93.8s. 2455 / 2595 completed.
+23/09/06 14:38:27 | INFO | root | Predicted structure for gene2447_18817358_18822323 with length 757, pLDDT 62.0, pTM 0.334 in 93.8s. 2456 / 2595 completed.
+23/09/06 14:40:01 | INFO | root | Predicted structure for gene2486_19213490_19216327 with length 757, pLDDT 81.5, pTM 0.592 in 93.9s. 2457 / 2595 completed.
+23/09/06 14:41:35 | INFO | root | Predicted structure for gene2542_19606103_19608549 with length 758, pLDDT 65.1, pTM 0.321 in 93.6s. 2458 / 2595 completed.
+23/09/06 14:43:11 | INFO | root | Predicted structure for gene472_3480643_3485636 with length 763, pLDDT 64.7, pTM 0.330 in 95.9s. 2459 / 2595 completed.
+23/09/06 14:44:46 | INFO | root | Predicted structure for gene617_4444571_4449609 with length 763, pLDDT 64.5, pTM 0.330 in 95.9s. 2460 / 2595 completed.
+23/09/06 14:46:23 | INFO | root | Predicted structure for gene2244_17214530_17227341 with length 765, pLDDT 54.4, pTM 0.269 in 96.9s. 2461 / 2595 completed.
+23/09/06 14:48:01 | INFO | root | Predicted structure for gene1627_11723343_11728384 with length 767, pLDDT 67.2, pTM 0.340 in 97.5s. 2462 / 2595 completed.
+23/09/06 14:49:38 | INFO | root | Predicted structure for gene2494_19271507_19277216 with length 767, pLDDT 65.5, pTM 0.329 in 97.4s. 2463 / 2595 completed.
+23/09/06 14:51:15 | INFO | root | Predicted structure for gene2005_14653557_14656376 with length 769, pLDDT 53.5, pTM 0.305 in 96.9s. 2464 / 2595 completed.
+23/09/06 14:52:51 | INFO | root | Predicted structure for gene2001_14614261_14629432 with length 770, pLDDT 61.7, pTM 0.330 in 96.3s. 2465 / 2595 completed.
+23/09/06 14:54:27 | INFO | root | Predicted structure for gene2373_18177140_18180299 with length 772, pLDDT 53.5, pTM 0.305 in 95.7s. 2466 / 2595 completed.
+23/09/06 14:56:05 | INFO | root | Predicted structure for gene1897_13872549_13875469 with length 773, pLDDT 54.4, pTM 0.336 in 98.2s. 2467 / 2595 completed.
+23/09/06 14:57:42 | INFO | root | Predicted structure for gene1311_9204801_9209392 with length 774, pLDDT 61.0, pTM 0.337 in 97.1s. 2468 / 2595 completed.
+23/09/06 14:59:20 | INFO | root | Predicted structure for gene2387_18291967_18297029 with length 774, pLDDT 66.4, pTM 0.335 in 97.3s. 2469 / 2595 completed.
+23/09/06 15:00:58 | INFO | root | Predicted structure for gene189_1290497_1292934 with length 775, pLDDT 76.7, pTM 0.475 in 98.3s. 2470 / 2595 completed.
+23/09/06 15:02:36 | INFO | root | Predicted structure for gene1720_12514915_12517669 with length 775, pLDDT 82.3, pTM 0.517 in 98.4s. 2471 / 2595 completed.
+23/09/06 15:04:10 | INFO | root | Predicted structure for gene163_1167491_1170616 with length 776, pLDDT 63.0, pTM 0.307 in 93.5s. 2472 / 2595 completed.
+23/09/06 15:05:49 | INFO | root | Predicted structure for gene2074_15798333_15804074 with length 777, pLDDT 63.2, pTM 0.317 in 98.8s. 2473 / 2595 completed.
+23/09/06 15:07:29 | INFO | root | Predicted structure for gene324_2295469_2300654 with length 781, pLDDT 61.1, pTM 0.337 in 99.9s. 2474 / 2595 completed.
+23/09/06 15:09:08 | INFO | root | Predicted structure for gene2090_15918077_15920600 with length 782, pLDDT 79.9, pTM 0.670 in 99.4s. 2475 / 2595 completed.
+23/09/06 15:10:49 | INFO | root | Predicted structure for gene935_6565020_6567976 with length 783, pLDDT 72.4, pTM 0.638 in 100.8s. 2476 / 2595 completed.
+23/09/06 15:12:30 | INFO | root | Predicted structure for gene2182_16648314_16652663 with length 783, pLDDT 71.2, pTM 0.318 in 100.8s. 2477 / 2595 completed.
+23/09/06 15:14:12 | INFO | root | Predicted structure for gene1364_9677114_9682161 with length 790, pLDDT 69.8, pTM 0.365 in 101.9s. 2478 / 2595 completed.
+23/09/06 15:15:50 | INFO | root | Predicted structure for gene253_1743787_1749188 with length 792, pLDDT 61.0, pTM 0.327 in 98.0s. 2479 / 2595 completed.
+23/09/06 15:17:28 | INFO | root | Predicted structure for gene1587_11379674_11382249 with length 792, pLDDT 41.8, pTM 0.228 in 98.1s. 2480 / 2595 completed.
+23/09/06 15:19:06 | INFO | root | Predicted structure for gene1919_14053135_14058580 with length 792, pLDDT 60.0, pTM 0.306 in 98.0s. 2481 / 2595 completed.
+23/09/06 15:20:50 | INFO | root | Predicted structure for gene1262_8853963_8858971 with length 798, pLDDT 68.5, pTM 0.368 in 104.2s. 2482 / 2595 completed.
+23/09/06 15:22:29 | INFO | root | Predicted structure for gene184_1265747_1268414 with length 800, pLDDT 68.5, pTM 0.566 in 99.2s. 2483 / 2595 completed.
+23/09/06 15:24:08 | INFO | root | Predicted structure for gene1927_14120262_14122856 with length 800, pLDDT 73.9, pTM 0.602 in 99.2s. 2484 / 2595 completed.
+23/09/06 15:25:56 | INFO | root | Predicted structure for gene378_2709466_2712312 with length 805, pLDDT 60.4, pTM 0.303 in 107.9s. 2485 / 2595 completed.
+23/09/06 15:27:44 | INFO | root | Predicted structure for gene454_3297897_3306179 with length 805, pLDDT 50.1, pTM 0.248 in 107.8s. 2486 / 2595 completed.
+23/09/06 15:29:30 | INFO | root | Predicted structure for gene877_6181149_6183668 with length 806, pLDDT 78.0, pTM 0.685 in 105.5s. 2487 / 2595 completed.
+23/09/06 15:31:17 | INFO | root | Predicted structure for gene1052_7274016_7276698 with length 810, pLDDT 74.6, pTM 0.430 in 106.9s. 2488 / 2595 completed.
+23/09/06 15:32:59 | INFO | root | Predicted structure for gene2171_16552852_16555488 with length 816, pLDDT 79.9, pTM 0.532 in 102.7s. 2489 / 2595 completed.
+23/09/06 15:34:51 | INFO | root | Predicted structure for gene2537_19587891_19592923 with length 817, pLDDT 63.5, pTM 0.319 in 111.6s. 2490 / 2595 completed.
+23/09/06 15:36:42 | INFO | root | Predicted structure for gene1116_7764316_7766796 with length 818, pLDDT 80.4, pTM 0.549 in 110.8s. 2491 / 2595 completed.
+23/09/06 15:38:32 | INFO | root | Predicted structure for gene2548_19658202_19663252 with length 820, pLDDT 63.4, pTM 0.322 in 110.0s. 2492 / 2595 completed.
+23/09/06 15:40:24 | INFO | root | Predicted structure for gene2220_16990413_16992923 with length 828, pLDDT 57.3, pTM 0.283 in 111.9s. 2493 / 2595 completed.
+23/09/06 15:42:20 | INFO | root | Predicted structure for gene578_4132578_4140432 with length 829, pLDDT 65.8, pTM 0.309 in 114.3s. 2494 / 2595 completed.
+23/09/06 15:44:14 | INFO | root | Predicted structure for gene1332_9414988_9428371 with length 829, pLDDT 35.4, pTM 0.175 in 114.3s. 2495 / 2595 completed.
+23/09/06 15:46:10 | INFO | root | Predicted structure for gene1344_9530494_9534723 with length 831, pLDDT 55.9, pTM 0.379 in 116.1s. 2496 / 2595 completed.
+23/09/06 15:47:58 | INFO | root | Predicted structure for gene76_516557_522268 with length 832, pLDDT 64.2, pTM 0.314 in 108.4s. 2497 / 2595 completed.
+23/09/06 15:49:57 | INFO | root | Predicted structure for gene590_4215299_4217830 with length 835, pLDDT 80.7, pTM 0.617 in 118.3s. 2498 / 2595 completed.
+23/09/06 15:51:57 | INFO | root | Predicted structure for gene568_4070496_4076207 with length 837, pLDDT 62.8, pTM 0.314 in 120.6s. 2499 / 2595 completed.
+23/09/06 15:53:56 | INFO | root | Predicted structure for gene628_4548652_4551835 with length 838, pLDDT 45.2, pTM 0.295 in 118.9s. 2500 / 2595 completed.
+23/09/06 15:55:57 | INFO | root | Predicted structure for gene971_6744776_6749350 with length 839, pLDDT 76.9, pTM 0.368 in 120.8s. 2501 / 2595 completed.
+23/09/06 15:57:58 | INFO | root | Predicted structure for gene153_1089178_1093111 with length 842, pLDDT 70.1, pTM 0.409 in 121.3s. 2502 / 2595 completed.
+23/09/06 16:00:02 | INFO | root | Predicted structure for gene110_868956_872167 with length 845, pLDDT 47.2, pTM 0.264 in 124.0s. 2503 / 2595 completed.
+23/09/06 16:02:08 | INFO | root | Predicted structure for gene664_4788458_4791228 with length 847, pLDDT 79.0, pTM 0.402 in 125.5s. 2504 / 2595 completed.
+23/09/06 16:04:05 | INFO | root | Predicted structure for gene74_479359_482140 with length 848, pLDDT 67.2, pTM 0.291 in 117.8s. 2505 / 2595 completed.
+23/09/06 16:06:11 | INFO | root | Predicted structure for gene1211_8490243_8498942 with length 849, pLDDT 68.4, pTM 0.348 in 125.6s. 2506 / 2595 completed.
+23/09/06 16:08:16 | INFO | root | Predicted structure for gene939_6580349_6583594 with length 850, pLDDT 72.6, pTM 0.303 in 125.1s. 2507 / 2595 completed.
+23/09/06 16:10:21 | INFO | root | Predicted structure for gene2221_16996988_17004366 with length 850, pLDDT 57.6, pTM 0.402 in 125.1s. 2508 / 2595 completed.
+23/09/06 16:12:27 | INFO | root | Predicted structure for gene306_2196940_2202879 with length 852, pLDDT 61.5, pTM 0.318 in 125.4s. 2509 / 2595 completed.
+23/09/06 16:14:33 | INFO | root | Predicted structure for gene2273_17415413_17420448 with length 854, pLDDT 66.5, pTM 0.339 in 126.0s. 2510 / 2595 completed.
+23/09/06 16:16:41 | INFO | root | Predicted structure for gene492_3628414_3631579 with length 858, pLDDT 79.9, pTM 0.613 in 128.1s. 2511 / 2595 completed.
+23/09/06 16:18:51 | INFO | root | Predicted structure for gene71_463121_466305 with length 859, pLDDT 52.8, pTM 0.318 in 130.2s. 2512 / 2595 completed.
+23/09/06 16:20:56 | INFO | root | Predicted structure for gene658_4756015_4758636 with length 864, pLDDT 57.1, pTM 0.297 in 125.0s. 2513 / 2595 completed.
+23/09/06 16:23:09 | INFO | root | Predicted structure for gene992_6878220_6883511 with length 865, pLDDT 62.9, pTM 0.255 in 132.8s. 2514 / 2595 completed.
+23/09/06 16:25:22 | INFO | root | Predicted structure for gene2157_16473915_16476718 with length 865, pLDDT 50.3, pTM 0.292 in 132.7s. 2515 / 2595 completed.
+23/09/06 16:27:35 | INFO | root | Predicted structure for gene1142_7917307_7920209 with length 867, pLDDT 80.2, pTM 0.435 in 133.5s. 2516 / 2595 completed.
+23/09/06 16:29:50 | INFO | root | Predicted structure for gene2119_16155396_16158582 with length 869, pLDDT 44.5, pTM 0.273 in 134.6s. 2517 / 2595 completed.
+23/09/06 16:32:03 | INFO | root | Predicted structure for gene1717_12507376_12510015 with length 870, pLDDT 57.3, pTM 0.296 in 133.6s. 2518 / 2595 completed.
+23/09/06 16:34:20 | INFO | root | Predicted structure for gene954_6659433_6662303 with length 873, pLDDT 79.3, pTM 0.457 in 136.2s. 2519 / 2595 completed.
+23/09/06 16:36:33 | INFO | root | Predicted structure for gene335_2379840_2388464 with length 876, pLDDT 53.6, pTM 0.250 in 133.5s. 2520 / 2595 completed.
+23/09/06 16:38:47 | INFO | root | Predicted structure for gene1106_7692018_7700320 with length 876, pLDDT 54.3, pTM 0.291 in 133.5s. 2521 / 2595 completed.
+23/09/06 16:41:00 | INFO | root | Predicted structure for gene1647_11924827_11928004 with length 876, pLDDT 49.4, pTM 0.304 in 133.5s. 2522 / 2595 completed.
+23/09/06 16:43:19 | INFO | root | Predicted structure for gene286_2013100_2026150 with length 879, pLDDT 59.0, pTM 0.310 in 138.8s. 2523 / 2595 completed.
+23/09/06 16:45:38 | INFO | root | Predicted structure for gene423_3033557_3036902 with length 879, pLDDT 52.8, pTM 0.319 in 138.8s. 2524 / 2595 completed.
+23/09/06 16:47:58 | INFO | root | Predicted structure for gene1244_8770142_8773307 with length 886, pLDDT 52.5, pTM 0.316 in 140.1s. 2525 / 2595 completed.
+23/09/06 16:50:12 | INFO | root | Predicted structure for gene540_3871829_3875080 with length 888, pLDDT 41.5, pTM 0.240 in 133.7s. 2526 / 2595 completed.
+23/09/06 16:52:35 | INFO | root | Predicted structure for gene1718_12510079_12513860 with length 889, pLDDT 82.8, pTM 0.544 in 143.2s. 2527 / 2595 completed.
+23/09/06 16:54:52 | INFO | root | Predicted structure for gene1043_7214770_7217612 with length 896, pLDDT 47.4, pTM 0.255 in 137.0s. 2528 / 2595 completed.
+23/09/06 16:57:20 | INFO | root | Predicted structure for gene309_2214203_2217407 with length 901, pLDDT 56.0, pTM 0.332 in 147.7s. 2529 / 2595 completed.
+23/09/06 16:59:46 | INFO | root | Predicted structure for gene966_6716439_6725206 with length 902, pLDDT 60.1, pTM 0.286 in 146.6s. 2530 / 2595 completed.
+23/09/06 17:02:13 | INFO | root | Predicted structure for gene376_2686950_2689778 with length 908, pLDDT 54.5, pTM 0.284 in 146.6s. 2531 / 2595 completed.
+23/09/06 17:04:39 | INFO | root | Predicted structure for gene2284_17529896_17533123 with length 908, pLDDT 82.3, pTM 0.600 in 146.4s. 2532 / 2595 completed.
+23/09/06 17:07:14 | INFO | root | Predicted structure for gene313_2221825_2224605 with length 917, pLDDT 65.3, pTM 0.282 in 154.5s. 2533 / 2595 completed.
+23/09/06 17:09:47 | INFO | root | Predicted structure for gene1100_7636963_7651200 with length 918, pLDDT 65.0, pTM 0.379 in 153.7s. 2534 / 2595 completed.
+23/09/06 17:12:21 | INFO | root | Predicted structure for gene1156_7992849_7995632 with length 918, pLDDT 83.5, pTM 0.534 in 153.6s. 2535 / 2595 completed.
+23/09/06 17:14:48 | INFO | root | Predicted structure for gene1869_13602915_13606163 with length 920, pLDDT 44.8, pTM 0.285 in 146.5s. 2536 / 2595 completed.
+23/09/06 17:17:25 | INFO | root | Predicted structure for gene157_1126448_1137998 with length 923, pLDDT 54.8, pTM 0.291 in 157.1s. 2537 / 2595 completed.
+23/09/06 17:19:58 | INFO | root | Predicted structure for gene888_6239731_6242532 with length 924, pLDDT 81.7, pTM 0.519 in 152.9s. 2538 / 2595 completed.
+23/09/06 17:22:37 | INFO | root | Predicted structure for gene271_1892980_1896258 with length 927, pLDDT 54.4, pTM 0.320 in 159.2s. 2539 / 2595 completed.
+23/09/06 17:25:18 | INFO | root | Predicted structure for gene2338_17940167_17951757 with length 933, pLDDT 56.7, pTM 0.298 in 161.7s. 2540 / 2595 completed.
+23/09/06 17:27:59 | INFO | root | Predicted structure for gene2148_16392960_16398935 with length 934, pLDDT 62.3, pTM 0.286 in 160.3s. 2541 / 2595 completed.
+23/09/06 17:30:41 | INFO | root | Predicted structure for gene997_6899741_6910451 with length 935, pLDDT 59.1, pTM 0.291 in 162.7s. 2542 / 2595 completed.
+23/09/06 17:33:26 | INFO | root | Predicted structure for gene2249_17243022_17245963 with length 942, pLDDT 48.5, pTM 0.254 in 164.1s. 2543 / 2595 completed.
+23/09/06 17:36:12 | INFO | root | Predicted structure for gene2177_16606221_16623528 with length 943, pLDDT 37.3, pTM 0.201 in 166.3s. 2544 / 2595 completed.
+23/09/06 17:39:09 | INFO | root | Predicted structure for gene193_1307359_1310918 with length 966, pLDDT 59.9, pTM 0.319 in 176.9s. 2545 / 2595 completed.
+23/09/06 17:42:07 | INFO | root | Predicted structure for gene2446_18808809_18815433 with length 970, pLDDT 68.5, pTM 0.479 in 178.2s. 2546 / 2595 completed.
+23/09/06 17:45:07 | INFO | root | Predicted structure for gene1274_8947403_8952509 with length 974, pLDDT 53.2, pTM 0.243 in 180.2s. 2547 / 2595 completed.
+23/09/06 17:48:09 | INFO | root | Predicted structure for gene850_5995998_5999351 with length 975, pLDDT 52.6, pTM 0.296 in 182.3s. 2548 / 2595 completed.
+23/09/06 17:51:16 | INFO | root | Predicted structure for gene442_3169938_3173165 with length 985, pLDDT 79.2, pTM 0.537 in 186.6s. 2549 / 2595 completed.
+23/09/06 17:54:25 | INFO | root | Predicted structure for gene2297_17638571_17641988 with length 991, pLDDT 76.5, pTM 0.556 in 189.4s. 2550 / 2595 completed.
+23/09/06 17:57:34 | INFO | root | Predicted structure for gene1327_9369588_9372771 with length 994, pLDDT 82.3, pTM 0.519 in 188.5s. 2551 / 2595 completed.
+23/09/06 18:00:45 | INFO | root | Predicted structure for gene1843_13409343_13412381 with length 1002, pLDDT 82.2, pTM 0.524 in 191.2s. 2552 / 2595 completed.
+23/09/06 18:03:45 | INFO | root | Predicted structure for gene1117_7766843_7769899 with length 1008, pLDDT 48.7, pTM 0.253 in 180.2s. 2553 / 2595 completed.
+23/09/06 18:06:59 | INFO | root | Predicted structure for gene507_3685385_3688444 with length 1009, pLDDT 49.8, pTM 0.267 in 193.8s. 2554 / 2595 completed.
+23/09/06 18:10:17 | INFO | root | Predicted structure for gene281_1965948_1969724 with length 1014, pLDDT 55.0, pTM 0.283 in 197.8s. 2555 / 2595 completed.
+23/09/06 18:13:27 | INFO | root | Predicted structure for gene1975_14471293_14476908 with length 1024, pLDDT 46.4, pTM 0.273 in 189.9s. 2556 / 2595 completed.
+23/09/06 18:16:50 | INFO | root | Predicted structure for gene2012_14747230_14761052 with length 1026, pLDDT 48.8, pTM 0.278 in 203.5s. 2557 / 2595 completed.
+23/09/06 18:20:15 | INFO | root | Predicted structure for gene1157_7995696_7998943 with length 1027, pLDDT 49.4, pTM 0.268 in 204.8s. 2558 / 2595 completed.
+23/09/06 18:23:45 | INFO | root | Predicted structure for gene2516_19426888_19430177 with length 1034, pLDDT 69.1, pTM 0.404 in 209.7s. 2559 / 2595 completed.
+23/09/06 18:27:18 | INFO | root | Predicted structure for gene887_6236068_6239304 with length 1039, pLDDT 49.7, pTM 0.259 in 213.3s. 2560 / 2595 completed.
+23/09/06 18:30:49 | INFO | root | Predicted structure for gene720_5127693_5130857 with length 1044, pLDDT 82.7, pTM 0.503 in 210.4s. 2561 / 2595 completed.
+23/09/06 18:34:39 | INFO | root | Predicted structure for gene1504_10697336_10702562 with length 1045, pLDDT 67.9, pTM 0.441 in 230.3s. 2562 / 2595 completed.
+23/09/06 18:38:19 | INFO | root | Predicted structure for gene713_5083609_5086858 with length 1049, pLDDT 49.4, pTM 0.264 in 220.6s. 2563 / 2595 completed.
+23/09/06 18:41:59 | INFO | root | Predicted structure for gene718_5098546_5101731 with length 1050, pLDDT 48.5, pTM 0.267 in 219.1s. 2564 / 2595 completed.
+23/09/06 18:45:47 | INFO | root | Predicted structure for gene115_886156_889368 with length 1059, pLDDT 48.9, pTM 0.267 in 228.2s. 2565 / 2595 completed.
+23/09/06 18:49:27 | INFO | root | Predicted structure for gene1044_7217676_7220903 with length 1064, pLDDT 81.6, pTM 0.497 in 219.9s. 2566 / 2595 completed.
+23/09/06 18:53:21 | INFO | root | Predicted structure for gene717_5094380_5098482 with length 1069, pLDDT 78.3, pTM 0.508 in 234.4s. 2567 / 2595 completed.
+23/09/06 18:57:16 | INFO | root | Predicted structure for gene101_789062_792310 with length 1071, pLDDT 48.4, pTM 0.263 in 235.4s. 2568 / 2595 completed.
+23/09/06 19:01:12 | INFO | root | Predicted structure for gene441_3166626_3169874 with length 1071, pLDDT 48.7, pTM 0.270 in 235.5s. 2569 / 2595 completed.
+23/09/06 19:05:07 | INFO | root | Predicted structure for gene721_5130921_5134169 with length 1071, pLDDT 48.6, pTM 0.262 in 235.4s. 2570 / 2595 completed.
+23/09/06 19:09:03 | INFO | root | Predicted structure for gene1844_13412445_13415693 with length 1071, pLDDT 48.7, pTM 0.261 in 235.4s. 2571 / 2595 completed.
+23/09/06 19:13:00 | INFO | root | Predicted structure for gene901_6340175_6343444 with length 1078, pLDDT 80.7, pTM 0.496 in 237.4s. 2572 / 2595 completed.
+23/09/06 19:17:00 | INFO | root | Predicted structure for gene1685_12151337_12159077 with length 1084, pLDDT 67.8, pTM 0.441 in 239.8s. 2573 / 2595 completed.
+23/09/06 19:20:58 | INFO | root | Predicted structure for gene1410_10052235_10055602 with length 1088, pLDDT 69.8, pTM 0.385 in 237.7s. 2574 / 2595 completed.
+23/09/06 19:25:14 | INFO | root | Predicted structure for gene351_2543517_2555032 with length 1095, pLDDT 53.5, pTM 0.284 in 256.6s. 2575 / 2595 completed.
+23/09/06 19:29:41 | INFO | root | Predicted structure for gene1328_9372835_9376224 with length 1118, pLDDT 46.7, pTM 0.263 in 266.4s. 2576 / 2595 completed.
+23/09/06 19:34:11 | INFO | root | Predicted structure for gene1898_13877635_13881151 with length 1126, pLDDT 76.9, pTM 0.458 in 270.2s. 2577 / 2595 completed.
+23/09/06 19:38:54 | INFO | root | Predicted structure for gene1400_9993271_10000775 with length 1137, pLDDT 63.6, pTM 0.301 in 282.8s. 2578 / 2595 completed.
+23/09/06 19:43:37 | INFO | root | Predicted structure for gene2484_19202667_19212631 with length 1139, pLDDT 57.5, pTM 0.245 in 283.5s. 2579 / 2595 completed.
+23/09/06 19:48:25 | INFO | root | Predicted structure for gene1646_11919660_11923433 with length 1145, pLDDT 80.4, pTM 0.516 in 287.9s. 2580 / 2595 completed.
+23/09/06 19:53:30 | INFO | root | Predicted structure for gene2437_18703981_18708654 with length 1173, pLDDT 72.1, pTM 0.374 in 304.4s. 2581 / 2595 completed.
+23/09/06 19:58:48 | INFO | root | Predicted structure for gene2374_18181740_18185513 with length 1216, pLDDT 79.4, pTM 0.438 in 318.0s. 2582 / 2595 completed.
+23/09/06 20:04:41 | INFO | root | Predicted structure for gene2456_18899539_18903489 with length 1237, pLDDT 76.1, pTM 0.474 in 353.3s. 2583 / 2595 completed.
+23/09/06 20:10:20 | INFO | root | Predicted structure for gene2291_17598165_17613393 with length 1240, pLDDT 47.4, pTM 0.262 in 339.3s. 2584 / 2595 completed.
+23/09/06 20:16:12 | INFO | root | Predicted structure for gene2027_14922123_14925997 with length 1242, pLDDT 70.0, pTM 0.470 in 352.0s. 2585 / 2595 completed.
+23/09/06 20:22:49 | INFO | root | Predicted structure for gene1551_11104343_11126080 with length 1302, pLDDT 53.2, pTM 0.280 in 396.5s. 2586 / 2595 completed.
+23/09/06 20:29:29 | INFO | root | Predicted structure for gene470_3474182_3478132 with length 1303, pLDDT 77.3, pTM 0.458 in 400.1s. 2587 / 2595 completed.
+23/09/06 20:36:32 | INFO | root | Predicted structure for gene188_1285744_1289958 with length 1331, pLDDT 72.9, pTM 0.480 in 422.7s. 2588 / 2595 completed.
+23/09/06 20:45:08 | INFO | root | Predicted structure for gene2549_19670672_19674997 with length 1427, pLDDT 74.6, pTM 0.423 in 516.3s. 2589 / 2595 completed.
+23/09/06 20:54:13 | INFO | root | Predicted structure for gene448_3245090_3249517 with length 1460, pLDDT 74.6, pTM 0.453 in 544.9s. 2590 / 2595 completed.
+23/09/06 21:04:10 | INFO | root | Predicted structure for gene192_1302153_1306810 with length 1508, pLDDT 69.8, pTM 0.404 in 597.1s. 2591 / 2595 completed.
+23/09/06 21:04:13 | INFO | root | Failed (CUDA out of memory) on sequence gene1245_8774845_8779725 of length 1610.
+23/09/06 21:04:15 | INFO | root | Failed (CUDA out of memory) on sequence gene1049_7260033_7265403 of length 1720.
+23/09/06 21:04:17 | INFO | root | Failed (CUDA out of memory) on sequence gene2458_18909054_18914717 of length 1766.
+23/09/06 21:04:18 | INFO | root | Failed (CUDA out of memory) on sequence gene2189_16701678_16707353 of length 1872.
